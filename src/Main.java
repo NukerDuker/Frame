@@ -24,6 +24,6 @@ class Frame extends JFrame {
 
 public class Main {
     public static void main(String[] args) {
-        new Frame();
+        Frame test = new Frame();
     }
 }
